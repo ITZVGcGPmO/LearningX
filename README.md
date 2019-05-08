@@ -1,3 +1,5 @@
+## :warning: this repository is related to detection of [NSFW](https://en.wikipedia.org/wiki/Not_safe_for_work) content, you may see [NSFW](https://en.wikipedia.org/wiki/Not_safe_for_work) content.
+
 <h1 align="center">LearningX</h1>
 <p align="center">Everything is possible!</p>
 
