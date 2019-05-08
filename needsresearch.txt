@@ -1,0 +1,6 @@
+https://www.youtube.com/watch?v=ANIw1Mz1SRI
+
+https://becominghuman.ai/building-an-image-classifier-using-deep-learning-in-python-totally-from-a-beginners-perspective-be8dbaf22dd8
+https://github.com/venkateshtata/cnn_medium./blob/master/cnn.py
+
+
