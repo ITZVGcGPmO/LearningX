@@ -4,8 +4,7 @@
 <p align="center">Everything is possible!</p>
 
 <p align="center">
-    <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/github/license/riflowth/LearningX.svg"></a>
-    <a href="https://www.paypal.me/wheprakhone"><img src="http://ionicabizau.github.io/badges/paypal.svg"></a>
+    <a href="LICENSE"><img src="https://img.shields.io/github/license/riflowth/LearningX.svg"></a>
 </p>
 
 ---
